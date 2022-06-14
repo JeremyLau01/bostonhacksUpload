@@ -4,8 +4,8 @@
 Created a checklist application with a reward system of fun animations and calming background music
 
 ## Members:
-- Andrew Chung
 - Jeremy Lau
+- Andrew Chung
 - Bryan Teoh
 
 ## Notes
